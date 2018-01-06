@@ -3,3 +3,5 @@
 我是 feature-A 正在开发相机功能
 
 - feature-C
+- fix-B
+
